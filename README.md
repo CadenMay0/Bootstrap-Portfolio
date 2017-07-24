@@ -1,2 +1,2 @@
 # Bootstrap-Portfolio
-A bootstrap rendition of my Basic features
+A bootstrap rendition of my Basic Portfolio
